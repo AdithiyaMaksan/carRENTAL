@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: e;
+    box-sizing: border-box;
+    scroll-padding-top: 2rem;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-seri;
+}
+
+h1 {
+    color: red;
+    font-style: arial;
+    background-color: rgb(42, 221, 48);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
